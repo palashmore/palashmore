@@ -22,6 +22,25 @@ Specialized in high-concurrency microservices, SQL query tuning, and Kafka event
 
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Palash.">
 
+<img src="assets/about-intro.svg" width="100%" alt="Profile Highlights: Palash More, Software Developer with 5+ Years of Experience at Excellon Software">
+
+<br />
+
+### 👤 Profile Highlights at a Glance
+
+| Highlight Attribute | Verified Engineering Detail |
+|:---|:---|
+| 👨‍💻 **Name** | **Palash Sanjay More** |
+| 💼 **Job Title** | **Software Developer** (.NET Core & SQL Specialist) |
+| ⏳ **Total Experience** | **5+ Years of Industry Experience** (July 2021 — Present) |
+| 🏢 **Current Company** | **Excellon Software Pvt. Ltd.** (Nagpur, Maharashtra, India) |
+| 🚗 **Domain & Scope** | **Enterprise Automotive Dealer Management Systems (DMS) & EV Telematics** across 5+ Concurrent Product Lines |
+| 🎯 **Core Specialization** | **High-Concurrency Backend Microservices, SQL Performance Tuning, Kafka Event Streaming, gRPC** |
+| 🌐 **Enterprise OEM Clients** | **Ford, Bajaj, TVS, Altigreen, Lectrix, Matter, CLPL, Moto Drive** |
+| 🏆 **Key Honors** | **Multitasker Award & Extra Mile Award Winner** at Excellon Software |
+
+<br />
+
 Software Developer with **5+ years of experience (July 2021 — Present)** at **Excellon Software Pvt. Ltd., Nagpur, India**.
 
 I architect, build, and optimize high-concurrency Web & Windows applications using **.NET Core, C#, ASP.NET MVC, Entity Framework Core, gRPC, and SQL Server**. Across 5+ concurrent product lines, I develop core platforms for Tier-1 automotive OEMs including **Ford, Bajaj, TVS, Altigreen, Lectrix, Matter, CLPL, and Moto Drive**.
