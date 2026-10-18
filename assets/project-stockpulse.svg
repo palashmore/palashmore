@@ -50,7 +50,7 @@
       <g class="p2-chip" style="animation-delay:1.36s"><rect x="280" y="312" width="60" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="310" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">PWA</text></g>
       <g class="p2-chip" style="animation-delay:1.48s"><rect x="348" y="312" width="80" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="388" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">Express</text></g>
     </g>
-    <!-- Right Diagram: Candlestick & Order block visualization -->
+    <!-- Right Diagram: Candlestick &amp; Order block visualization -->
     <g class="p2-in p2-d2"><g transform="translate(0 35)">
       <g transform="translate(740 35)" class="p2-mono" font-size="12">
         <text x="12" y="20" font-size="10" letter-spacing="2.2" fill="#8B949E">ORDER BLOCK ZONES · EMA 20/50/200</text>
