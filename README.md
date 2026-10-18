@@ -1,5 +1,9 @@
 # Palash More
 
+<p align="center">
+  <img width="320" alt="Palash More" src="assets/palash_more.png" />
+</p>
+
 <p align="center"><sub><em>
 Software Developer building enterprise-grade systems that serve Tier-1 automotive OEMs.<br />
 5+ years shipping .NET backends, SQL databases, and event-driven architectures<br />
