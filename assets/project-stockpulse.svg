@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p2-t">
+  <title id="p2-t">StockPulse: Real-Time Stock Market Dashboard with Order Block Analysis &amp; Multi-Chart Linking.</title>
+  <defs>
+    <linearGradient id="p2-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#070A0E"/>
+    </linearGradient>
+    <radialGradient id="p2-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#0284C7" stop-opacity=".6"/><stop offset="1" stop-color="#161B22" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p2-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#0284C7" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="p2-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p2-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/><stop offset=".45" stop-color="#10B981"/><stop offset="1" stop-color="#512BD4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p2-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .p2-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p2-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .p2-in { animation: p2-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .p2-d1 { animation-delay: .15s; } .p2-d2 { animation-delay: .4s; }
+    .p2-chip { animation: p2-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p2-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p2-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p2-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p2-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p2-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p2-in, .p2-chip { animation: none; } .p2-draw { animation: none; stroke-dashoffset: 0; } }
+    .p2-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p2-trace 7s linear infinite; }
+    @keyframes p2-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p2-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p2-clip)">
+    <rect width="1200" height="370" fill="url(#p2-bg)"/>
+    <rect x="700" width="500" height="370" fill="url(#p2-grid)"/>
+    <rect width="1200" height="370" fill="url(#p2-glow)"/>
+    <g class="p2-in p2-d1">
+      <text class="p2-mono" x="56" y="60" font-size="12" letter-spacing="2.6" fill="#38BDF8">02 · FULL-STACK · FINTECH &amp; ANALYTICS · 2026</text>
+      <text class="p2-serif" x="54" y="122" font-size="50" font-weight="300" letter-spacing="-1.5" fill="#F0F6FC">StockPulse</text>
+      <text class="p2-sans" x="56" y="162" font-size="16.5" fill="#8B949E">Real-time stock market dashboard with order block analysis &amp; multi-chart sync.</text>
+      <text class="p2-mono" x="56" y="196" font-size="12" fill="#A78BFA"><tspan fill="#38BDF8">BUILT ›</tspan> Cache-aware data layer, rate-limit resilient proxy, installable PWA</text>
+      <line class="p2-draw" x1="56" y1="222" x2="680" y2="222" stroke="#30363D" stroke-opacity=".8"/>
+      <g transform="translate(56 262)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F0F6FC">Real-Time</text><text class="p2-sans" y="24" font-size="12.5" fill="#8B949E">live quotes &amp; feeds</text></g>
+      <g transform="translate(261 262)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F0F6FC">Linked Zoom</text><text class="p2-sans" y="24" font-size="12.5" fill="#8B949E">crosshair &amp; timeframe sync</text></g>
+      <g transform="translate(466 262)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F0F6FC">Zero-Hammer</text><text class="p2-sans" y="24" font-size="12.5" fill="#8B949E">rate-limit resilient backoff</text></g>
+      <g class="p2-chip" style="animation-delay:1.00s"><rect x="56" y="312" width="70" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="91" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">React</text></g>
+      <g class="p2-chip" style="animation-delay:1.12s"><rect x="134" y="312" width="70" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="169" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">Node.js</text></g>
+      <g class="p2-chip" style="animation-delay:1.24s"><rect x="212" y="312" width="60" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="242" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">Vite</text></g>
+      <g class="p2-chip" style="animation-delay:1.36s"><rect x="280" y="312" width="60" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="310" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">PWA</text></g>
+      <g class="p2-chip" style="animation-delay:1.48s"><rect x="348" y="312" width="80" height="26" rx="13" fill="#161B22" stroke="#0284C7" stroke-opacity=".5"/><text class="p2-mono" x="388" y="329" text-anchor="middle" font-size="11" fill="#38BDF8">Express</text></g>
+    </g>
+    <!-- Right Diagram: Candlestick & Order block visualization -->
+    <g class="p2-in p2-d2"><g transform="translate(0 35)">
+      <g transform="translate(740 35)" class="p2-mono" font-size="12">
+        <text x="12" y="20" font-size="10" letter-spacing="2.2" fill="#8B949E">ORDER BLOCK ZONES · EMA 20/50/200</text>
+        <!-- Demand Zone -->
+        <rect x="20" y="55" width="380" height="34" rx="4" fill="#10B981" fill-opacity=".15" stroke="#10B981" stroke-opacity=".4"/>
+        <text x="30" y="77" font-size="10" fill="#10B981">DEMAND / ORDER BLOCK ZONE</text>
+        <!-- Supply Zone -->
+        <rect x="20" y="160" width="380" height="34" rx="4" fill="#EF4444" fill-opacity=".15" stroke="#EF4444" stroke-opacity=".4"/>
+        <text x="30" y="182" font-size="10" fill="#EF4444">SUPPLY RESISTANCE ZONE</text>
+        <!-- Candlesticks visual representation -->
+        <line x1="80" y1="95" x2="80" y2="155" stroke="#10B981" stroke-width="2"/>
+        <rect x="74" y="105" width="12" height="35" fill="#10B981" rx="2"/>
+        <line x1="130" y1="85" x2="130" y2="145" stroke="#EF4444" stroke-width="2"/>
+        <rect x="124" y="95" width="12" height="40" fill="#EF4444" rx="2"/>
+        <line x1="180" y1="75" x2="180" y2="135" stroke="#10B981" stroke-width="2"/>
+        <rect x="174" y="80" width="12" height="38" fill="#10B981" rx="2"/>
+        <line x1="230" y1="65" x2="230" y2="125" stroke="#10B981" stroke-width="2"/>
+        <rect x="224" y="70" width="12" height="30" fill="#10B981" rx="2"/>
+        <!-- Animated price line -->
+        <path class="p2-draw" d="M30 145 Q 120 120 180 85 T 320 65" fill="none" stroke="#38BDF8" stroke-width="2"/>
+        <circle cx="320" cy="65" r="4" fill="#38BDF8"/>
+        <text x="12" y="240" font-size="10" letter-spacing="1.4" fill="#8B949E">Multi-Chart Synced · IPO GMP · Portfolio Risk</text>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#30363D" stroke-opacity=".4"/>
+    <rect class="p2-trace" style="animation-delay:-1.7s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p2-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

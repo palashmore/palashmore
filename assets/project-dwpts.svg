@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p1-t">
+  <title id="p1-t">DWPTS: Daily Work Planning, Capacity Management and Observability Platform.</title>
+  <defs>
+    <linearGradient id="p1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#070A0E"/>
+    </linearGradient>
+    <radialGradient id="p1-glow" cx="80%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#512BD4" stop-opacity=".65"/><stop offset="1" stop-color="#161B22" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p1-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#512BD4" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="p1-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="p1-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p1-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/><stop offset=".45" stop-color="#A78BFA"/><stop offset="1" stop-color="#512BD4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p1-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .p1-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p1-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .p1-in { animation: p1-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .p1-d1 { animation-delay: .15s; } .p1-d2 { animation-delay: .4s; }
+    .p1-chip { animation: p1-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p1-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p1-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p1-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p1-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p1-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-in, .p1-chip { animation: none; } .p1-draw { animation: none; stroke-dashoffset: 0; } }
+    .p1-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p1-trace 7s linear infinite; }
+    @keyframes p1-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p1-clip)">
+    <rect width="1200" height="370" fill="url(#p1-bg)"/>
+    <rect x="700" width="500" height="370" fill="url(#p1-grid)"/>
+    <rect width="1200" height="370" fill="url(#p1-glow)"/>
+    <g class="p1-in p1-d1">
+      <text class="p1-mono" x="56" y="60" font-size="12" letter-spacing="2.6" fill="#38BDF8">01 · ENTERPRISE · WORKFORCE &amp; OBSERVABILITY · 2026</text>
+      <text class="p1-serif" x="54" y="122" font-size="50" font-weight="300" letter-spacing="-1.5" fill="#F0F6FC">DWPTS Platform</text>
+      <text class="p1-sans" x="56" y="162" font-size="16.5" fill="#8B949E">Daily work planning, capacity forecasting &amp; real-time telemetry suite.</text>
+      <text class="p1-mono" x="56" y="196" font-size="12" fill="#A78BFA"><tspan fill="#38BDF8">BUILT ›</tspan> Clean Architecture &amp; CQRS; EF Core 8, Redis cache, Kafka bus, SignalR</text>
+      <line class="p1-draw" x1="56" y1="222" x2="680" y2="222" stroke="#30363D" stroke-opacity=".8"/>
+      <g transform="translate(56 262)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F0F6FC">30-Day</text><text class="p1-sans" y="24" font-size="12.5" fill="#8B949E">EMA capacity forecasting</text></g>
+      <g transform="translate(261 262)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F0F6FC">&lt; 50ms</text><text class="p1-sans" y="24" font-size="12.5" fill="#8B949E">SignalR live stream</text></g>
+      <g transform="translate(466 262)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F0F6FC">10 Modules</text><text class="p1-sans" y="24" font-size="12.5" fill="#8B949E">RBAC + monitoring suite</text></g>
+      <g class="p1-chip" style="animation-delay:1.00s"><rect x="56" y="312" width="70" height="26" rx="13" fill="#161B22" stroke="#512BD4" stroke-opacity=".5"/><text class="p1-mono" x="91" y="329" text-anchor="middle" font-size="11" fill="#A78BFA">.NET 8</text></g>
+      <g class="p1-chip" style="animation-delay:1.12s"><rect x="134" y="312" width="92" height="26" rx="13" fill="#161B22" stroke="#512BD4" stroke-opacity=".5"/><text class="p1-mono" x="180" y="329" text-anchor="middle" font-size="11" fill="#A78BFA">Angular 18</text></g>
+      <g class="p1-chip" style="animation-delay:1.24s"><rect x="234" y="312" width="70" height="26" rx="13" fill="#161B22" stroke="#512BD4" stroke-opacity=".5"/><text class="p1-mono" x="269" y="329" text-anchor="middle" font-size="11" fill="#A78BFA">Kafka</text></g>
+      <g class="p1-chip" style="animation-delay:1.36s"><rect x="312" y="312" width="65" height="26" rx="13" fill="#161B22" stroke="#512BD4" stroke-opacity=".5"/><text class="p1-mono" x="344" y="329" text-anchor="middle" font-size="11" fill="#A78BFA">Redis</text></g>
+      <g class="p1-chip" style="animation-delay:1.48s"><rect x="385" y="312" width="95" height="26" rx="13" fill="#161B22" stroke="#512BD4" stroke-opacity=".5"/><text class="p1-mono" x="432" y="329" text-anchor="middle" font-size="11" fill="#A78BFA">PostgreSQL</text></g>
+      <g class="p1-chip" style="animation-delay:1.60s"><rect x="488" y="312" width="75" height="26" rx="13" fill="#161B22" stroke="#512BD4" stroke-opacity=".5"/><text class="p1-mono" x="525" y="329" text-anchor="middle" font-size="11" fill="#A78BFA">SignalR</text></g>
+    </g>
+    <!-- Right Diagram: Architecture nodes with animated packet -->
+    <g class="p1-in p1-d2"><g transform="translate(0 35)">
+      <g transform="translate(740 35)" class="p1-mono" font-size="12" text-anchor="middle">
+        <text x="12" y="20" text-anchor="start" font-size="10" letter-spacing="2.2" fill="#8B949E">ANGULAR · .NET 8 · CQRS · KAFKA</text>
+        <path d="M12 120 H60" stroke="#38BDF8" stroke-opacity=".5"/>
+        <path class="p1-draw" d="M170 120 C 220 120, 230 64, 280 64" fill="none" stroke="#38BDF8" stroke-width="1.5"/>
+        <path d="M170 120 C 220 120, 230 176, 280 176" fill="none" stroke="#A78BFA" stroke-opacity=".5" stroke-dasharray="4 6"/>
+        <rect x="60" y="98" width="110" height="44" rx="22" fill="#161B22" stroke="#512BD4" stroke-opacity=".7"/>
+        <text x="115" y="125" fill="#F0F6FC">API Gateway</text>
+        <rect x="280" y="42" width="126" height="44" rx="22" fill="#241B44" stroke="#38BDF8"/>
+        <text x="343" y="69" fill="#F0F6FC">CQRS / Events</text>
+        <rect x="280" y="154" width="126" height="44" rx="22" fill="#161B22" stroke="#30363D"/>
+        <text x="343" y="181" fill="#8B949E">Kafka &amp; DB</text>
+        <circle r="4.5" fill="#38BDF8" filter="url(#p1-glowf)">
+          <animateMotion dur="3.4s" repeatCount="indefinite" path="M12 120 H115 C 200 120, 230 64, 343 64" calcMode="spline" keyPoints="0;1" keyTimes="0;1" keySplines=".45 0 .55 1"/>
+        </circle>
+        <text x="12" y="240" text-anchor="start" font-size="10" letter-spacing="1.4" fill="#8B949E">CorrelationId · Global EF Filters · OpenTelemetry</text>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#30363D" stroke-opacity=".4"/>
+    <rect class="p1-trace" style="animation-delay:-1.7s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p1-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

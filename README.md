@@ -20,15 +20,11 @@ Specialized in high-concurrency microservices, SQL query tuning, and Kafka event
 
 ---
 
-## 01 About — Senior Software Developer & Backend Specialist
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Palash.">
 
 Software Developer with **5+ years of experience (July 2021 — Present)** at **Excellon Software Pvt. Ltd., Nagpur, India**.
 
 I architect, build, and optimize high-concurrency Web & Windows applications using **.NET Core, C#, ASP.NET MVC, Entity Framework Core, gRPC, and SQL Server**. Across 5+ concurrent product lines, I develop core platforms for Tier-1 automotive OEMs including **Ford, Bajaj, TVS, Altigreen, Lectrix, Matter, CLPL, and Moto Drive**.
-
----
-
-## 02 Current Focus — Enterprise Systems & Architecture
 
 enterprise engineering<br>
 ﹂**Software Developer @ [Excellon Software Pvt. Ltd.](https://www.aborad.com/)** — Nagpur, India<br>
@@ -39,14 +35,13 @@ enterprise engineering<br>
 &nbsp;&nbsp;&nbsp;&nbsp;﹂99% bug-free module delivery rate across releases<br>
 ﹂**Multitasker & Extra Mile Award** winner — delivering across 5+ simultaneous product tracks
 
-open source & systems design<br>
-﹂architecting full-stack applications with .NET 8, Angular 18, React, CQRS, and DDD<br>
-﹂building resilient distributed data layers, caching strategies (Redis), and event streaming (Kafka)<br>
-﹂leveraging AI-assisted engineering workflows in daily development
-
 ---
 
-## 03 Recognition & Verified Impact — Proof, on the Record
+<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
+
+<img src="assets/impact-motif.svg" width="100%" alt="Verified Impact & Metrics: Multitasker Award, Tier-1 OEM Scope, 5+ Years, 50% Speedup, 99% Bug-Free, 90% Automation, 8.13 CGPA">
+
+<br />
 
 | Recognition / Milestone | Technical Scope & Business Impact |
 |:---|:---|
@@ -59,36 +54,34 @@ open source & systems design<br>
 
 ---
 
-## 04 Selected Systems — Products, Not Assignments
+<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
+
+<a href="https://github.com/palashmore/DWPTS">
+  <img src="assets/project-dwpts.svg" width="100%" alt="DWPTS: Daily Work Planning, Capacity Management & Observability Platform">
+</a>
+
+<p align="center">
+  <a href="https://dwpts.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-dwpts.vercel.app-512BD4?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=vercel" alt="Live Demo"></a>
+  <a href="https://github.com/palashmore/DWPTS"><img src="https://img.shields.io/badge/Repository-DWPTS-238636?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=github" alt="Repository"></a>
+  <a href="https://dwpts.onrender.com/swagger/index.html"><img src="https://img.shields.io/badge/API_Docs-OpenAPI_Swagger-009688?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=swagger" alt="API Docs"></a>
+</p>
+
+<a href="https://github.com/palashmore/stockpulse-orderblock-dashboard">
+  <img src="assets/project-stockpulse.svg" width="100%" alt="StockPulse: Real-Time Stock Market Dashboard with Order Block Analysis">
+</a>
+
+<p align="center">
+  <a href="https://stockpulse-orderblock-dashboard.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-stockpulse.vercel.app-0284C7?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=vercel" alt="Live Demo"></a>
+  <a href="https://github.com/palashmore/stockpulse-orderblock-dashboard"><img src="https://img.shields.io/badge/Repository-StockPulse-238636?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=github" alt="Repository"></a>
+</p>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/palashmore/DWPTS"><b>DWPTS</b></a><br />
-      <sub>Enterprise workforce planning, capacity forecasting & observability platform · .NET 8 + Angular 18 · Clean Architecture, CQRS, DDD</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=stack&message=.NET%208%20%7C%20Angular%20%7C%20Kafka%20%7C%20Redis&labelColor=512BD4&color=111827" alt="stack .NET 8 Angular Kafka Redis" /><br />
-      <sub>Docker Compose · PostgreSQL · SignalR real-time · OpenTelemetry · 6 enterprise themes</sub>
-      <br /><br />
-      <a href="https://dwpts.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-dwpts.vercel.app-512BD4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
-      <a href="https://github.com/palashmore/DWPTS"><img src="https://img.shields.io/badge/Repository-DWPTS-238636?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
-      <a href="https://dwpts.onrender.com/swagger/index.html"><img src="https://img.shields.io/badge/API_Docs-OpenAPI_Swagger-009688?style=flat-square&logo=swagger&logoColor=white" alt="API Docs"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/palashmore/stockpulse-orderblock-dashboard"><b>StockPulse</b></a><br />
-      <sub>Real-time stock market dashboard with order block analysis, multi-chart linking, IPO tracking & portfolio review</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=stack&message=React%20%7C%20Node.js%20%7C%20Vite&labelColor=61DAFB&color=111827" alt="stack React Node.js Vite" /><br />
-      <sub>PWA · responsive layout · cache-aware data layer · rate-limit resilient API proxy</sub>
-      <br /><br />
-      <a href="https://stockpulse-orderblock-dashboard.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-stockpulse.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
-      <a href="https://github.com/palashmore/stockpulse-orderblock-dashboard"><img src="https://img.shields.io/badge/Repository-StockPulse-238636?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/palashmore/home-expence"><b>Home Expense</b></a><br />
       <sub>Multi-household financial management system with staff payroll, notifications, RBAC, and 450+ audit checks</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=stack&message=Node.js%20%7C%20Vanilla%20JS%20%7C%20PWA&labelColor=339933&color=111827" alt="stack Node.js Vanilla JS PWA" /><br />
-      <sub>scrypt password hashing · push notifications · durable sync via GitHub Gist · 9 Node test suites</sub>
+      <sub>scrypt auth · push notifications · durable sync via GitHub Gist · 9 test suites</sub>
       <br /><br />
       <a href="https://home-expence-pink.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-home--expence.vercel.app-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
       <a href="https://github.com/palashmore/home-expence"><img src="https://img.shields.io/badge/Repository-Home_Expense-238636?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
@@ -110,21 +103,7 @@ Other repositories: <a href="https://github.com/palashmore/Palash-portfolio-">Pa
 
 ---
 
-## 05 Engineering Highlights — Core Technical Capabilities
-
-| Engineering Domain | Production Scope & Architecture |
-|:---|:---|
-| 🚗 **Enterprise DMS Platforms** | Built and scaled Dealer Management Systems for Ford, Bajaj, TVS, Altigreen, Lectrix, Matter, CLPL, and Moto Drive — covering content upload, sales pipeline tracking, and multi-dealership analytics. |
-| ⚡ **Event-Driven Architecture** | Architected asynchronous messaging pipelines using **Apache Kafka** and **gRPC** to decouple monolithic workflows into high-throughput, low-latency microservices. |
-| 🗄️ **Database Optimization** | Deep tuning of SQL Server stored procedures, execution plan analysis, index defragmentation, and database archiving strategies resulting in a **50% reduction in query latency**. |
-| 🌐 **REST & gRPC API Engineering** | Built high-concurrency web endpoints with ASP.NET Core Web API, third-party webhook integrations (WhatsApp Business API), and sub-50ms bidirectional gRPC hardware communications. |
-| 🔋 **EV Telematics Workflows** | Engineered real-time data pipelines streaming telemetry between Electric Vehicle hardware battery sensors and cloud microservices. |
-| 🌍 **GCC Compliance & Multi-Brand** | Designed international business rules, cannibalization job cards, and multi-brand compliance engines adhering to Middle East automotive standards. |
-| 🚢 **Modern DevOps & CI/CD** | Automated multi-stage build and deployment workflows with Docker Compose, GitHub Actions, Vercel Global Edge, and cloud container hosting. |
-
----
-
-## 06 Toolkit — The Engineering Stack
+<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
 
 <table>
   <tr>
@@ -181,39 +160,15 @@ Other repositories: <a href="https://github.com/palashmore/Palash-portfolio-">Pa
 
 ---
 
-## 07 Engineering Philosophy — How I Build
+### Education & Professional Experience
 
-- 🧱 **Write clean, maintainable code**: Write code that is instantly readable today and effortlessly debuggable six months from now.
-- 🔌 **Design APIs for reliability & interoperability**: Every endpoint is versioned, strictly typed, documented, and resilient to failure.
-- 🔍 **Tune queries with execution plans, not intuition**: Profile indexing, analyze execution plans, eliminate table scans, and optimize I/O bottlenecks.
-- 📡 **Ship with observability**: If a service isn't monitored with health checks, structured logging, and telemetry, it's not production-ready.
-- 🚀 **Build to learn**: Side projects are where I stress-test new architectures, protocols, and deployment models.
-- 🤖 **Leverage AI-assisted workflows**: Use modern AI tools as a cognitive force multiplier while maintaining rigorous engineering ownership of the codebase.
+**Software Developer** — [Excellon Software Pvt. Ltd.](https://www.aborad.com/), Nagpur, India *(July 2021 — Present)*<br />
+🎓 **BE in Computer Engineering** — Bapurao Deshmukh College of Engineering, Sewagram *(CGPA: 8.13 / 10)*<br />
+📜 **Certifications**: JavaScript Ultimate (Udemy 2025) · Google Cloud Computing (IIT Bombay 2020) · Python (Udemy 2019)
 
 ---
 
-## 08 Education & Professional Experience
-
-### Experience
-**Software Developer** — [Excellon Software Pvt. Ltd.](https://www.aborad.com/), Nagpur, India<br />
-*July 2021 — Present (5+ years)*
-- Architecting enterprise Web and Windows applications across 5+ concurrent product lines for Tier-1 automotive OEMs.
-- Implementing event-driven microservices using Kafka and gRPC.
-- Driving database performance optimizations that cut page load times by 50%.
-- Awarded **Multitasker Award** and **Extra Mile Award**.
-
-### Education & Credentials
-🎓 **BE in Computer Engineering** — Bapurao Deshmukh College of Engineering, Sewagram<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Aug 2017 – Jun 2021 · **CGPA: 8.13 / 10**
-
-📜 **Certifications**:
-- JavaScript Ultimate Guide (Udemy, Jan 2025)
-- Google Cloud Computing (IIT Bombay Techfest, Jan 2020)
-- Python Core & Advanced (Udemy, Sep 2019)
-
----
-
-## 09 Activity & Telemetry — GitHub at a Glance
+### Activity & Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palashmore&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=adbac7&icon_color=512BD4&custom_title=GitHub%20Activity" height="165" alt="GitHub stats for palashmore" />
@@ -223,7 +178,7 @@ Other repositories: <a href="https://github.com/palashmore/Palash-portfolio-">Pa
 
 ---
 
-## 10 Connect — Let's Build Something Exceptional
+<img src="assets/title-connect.svg" width="100%" alt="05 Connect — Let's build something exceptional.">
 
 <p align="center">
   <a href="mailto:palash123more@gmail.com"><img src="https://img.shields.io/badge/Email-palash123more@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=gmail" alt="Email"></a>
@@ -232,8 +187,10 @@ Other repositories: <a href="https://github.com/palashmore/Palash-portfolio-">Pa
   <a href="https://github.com/palashmore"><img src="https://img.shields.io/badge/GitHub-palashmore-24292E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=github" alt="GitHub profile"></a>
 </p>
 
-<p align="center"><sub>
-  Available for Senior Software Developer & Backend Specialist roles. Open to technical collaborations and architectural consulting.
-</sub></p>
+<br />
+
+<a href="https://palash-portfolio-delta.vercel.app">
+  <img src="assets/footer-signature.svg" width="100%" alt="Palash More — Building resilient, high-throughput systems that drive enterprise operations.">
+</a>
 
 ---
